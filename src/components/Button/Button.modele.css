@@ -1,0 +1,10 @@
+.buttonContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #00875F;
+  color: #FFF;
+  height: 50px;
+  width: 108px;
+  border-radius: 8px;
+}
